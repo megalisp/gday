@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3b6c97c8eec0ed96","type":"text","text":"# G'DAY","x":110,"y":-420,"width":400,"height":93},
+		{"id":"b89cc2a162ad1a4b","x":110,"y":-820,"width":400,"height":400,"type":"file","file":"_res_/twemoji-1F31E.svg"}
+	],
+	"edges":[]
+}
